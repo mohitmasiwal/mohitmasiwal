@@ -1,32 +1,58 @@
- # Hi, I'm Mohit Masiwal 👋
+ <h1 align="center">Hi 👋, I'm Mohit Masiwal</h1>
+<h3 align="center">React Developer | Front-End Enthusiast | IoT Learner</h3>
 
-## About Me
-I’m a passionate React Developer with a strong foundation in HTML, CSS, JavaScript, and Tailwind CSS. I love creating responsive, user-friendly web applications and have experience building a variety of projects using modern web technologies.
+I'm a passionate React Developer with a solid foundation in HTML, CSS, JavaScript, and Tailwind CSS. I enjoy building responsive, user-friendly web applications and am constantly exploring new front-end technologies to enhance my skill set. 
 
-## Skills & Technologies
-- **Frontend Development:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Tools & Frameworks:** Git, npm, React Router, Redux, Webpack
-- **Styling:** Tailwind CSS, CSS3, Responsive Design
-- **Version Control:** Git, GitHub
-- **UI/UX:** Focus on clean, professional, and responsive designs
+---
 
- 
+- 🌐 **Portfolio**: [mohitmasiwal.netlify.app](https://tourmaline-palmier-a4e18d.netlify.app/)
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1z1AIP1oFYcI5CWlt3avbOvOA1HeXV67k/view?usp=drivesdk)
+- 💼 **LinkedIn**: [Mohit Masiwal](https://www.linkedin.com/in/mohit-masiwal-0b08b1324)
+- 📧 **Email**: mohitmasiwal02@gmail.com
+- 📍 **Location**: Nainital, Uttarakhand
 
-## What I’m Working On
-I’m currently working on building responsive, dynamic web applications with a focus on professional UI/UX, utilizing React and Tailwind CSS to deliver seamless user experiences.
+---
 
-## Get in Touch
-Feel free to check out my projects on GitHub: [mohitmasiwal](https://github.com/mohitmasiwal) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-masiwal-0b08b1324).
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40"/>
+</p>
 
+---
 
+### 📂 Projects
+- **[Rentrify App](https://github.com/mohitmasiwal/Rentrify)** - A React app with cart functionality.
+- **[Weather App](https://github.com/mohitmasiwal/weather-app)** - A responsive weather app with API integration.
+- **[Food Ordering App](https://github.com/mohitmasiwal/food-ordering-app)** - A food ordering platform with cart and ordering system.
 
+You can explore more projects on my [GitHub Profile](https://github.com/mohitmasiwal).
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitmasiwal&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmasiwal&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
+---
 
-
-
-<!---
-mohitmasiwal/mohitmasiwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤝 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohit-masiwal-0b08b1324" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:mohitmasiwal02@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="https://tourmaline-palmier-a4e18d.netlify.app/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" height="30" width="30" />
+  </a>
+</p>
