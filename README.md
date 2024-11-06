@@ -5,7 +5,7 @@ I'm a passionate React Developer with a solid foundation in HTML, CSS, JavaScrip
 
 ---
 
-- 🌐 **Portfolio**: [mohitmasiwal.netlify.app](https://tourmaline-palmier-a4e18d.netlify.app/)
+- 🌐 **Portfolio**: [mohitmasiwal.netlify.app]( https://curious-frangollo-29cca9.netlify.app/)
 - 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1z1AIP1oFYcI5CWlt3avbOvOA1HeXV67k/view?usp=drivesdk)
 - 💼 **LinkedIn**: [Mohit Masiwal](https://www.linkedin.com/in/mohit-masiwal-0b08b1324)
 - 📧 **Email**: mohitmasiwal02@gmail.com
