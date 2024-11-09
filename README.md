@@ -27,7 +27,7 @@ I'm a passionate React Developer with a solid foundation in HTML, CSS, JavaScrip
 
 ### 📂 Projects
 - **[Rentrify App](https://github.com/mohitmasiwal/Rentrify)** - A React app with cart functionality.
-- **[Weather App](https://github.com/mohitmasiwal/weather-app)** - A responsive weather app with API integration.
+- **[Weather App](https://github.com/mohitmasiwal/weatherapp.git)** - A responsive weather app with API integration.
 - **[Food Ordering App](https://github.com/mohitmasiwal/recipes.git)** - A food ordering platform with cart and ordering system.
 
 You can explore more projects on my [GitHub Profile](https://github.com/mohitmasiwal).
