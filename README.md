@@ -52,7 +52,7 @@ You can explore more projects on my [GitHub Profile](https://github.com/mohitmas
   <a href="mailto:mohitmasiwal02@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="30" width="30" />
   </a>
-  <a href="https://tourmaline-palmier-a4e18d.netlify.app/" target="_blank">
+  <a href=" https://curious-frangollo-29cca9.netlify.app/" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
