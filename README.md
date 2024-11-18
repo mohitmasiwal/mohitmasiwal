@@ -56,7 +56,8 @@ You can explore more projects on my [GitHub Profile](https://github.com/mohitmas
     <img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitmasiwal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
- https://streak-stats.demolab.com/?user=mohitmasiwal
+ 
 
