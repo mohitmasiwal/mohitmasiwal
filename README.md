@@ -57,7 +57,7 @@ You can explore more projects on my [GitHub Profile](https://github.com/mohitmas
   </a>
 </p>
 
-## 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohitmasiwal&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohitmasiwal&theme=radical&hide_border=true)
+![GitHub contributions](https://img.shields.io/badge/Contributions-🔥-brightgreen)
 
