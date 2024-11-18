@@ -56,7 +56,12 @@ You can explore more projects on my [GitHub Profile](https://github.com/mohitmas
     <img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
- ![GitHub Streak](https://streak-stats.demolab.com/?user=mohitmasiwal)
+ <h2>🔥 GitHub Streak Stats</h2>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=mohitmasiwal" alt="GitHub Streak">
+</a>
+
 
 
 
