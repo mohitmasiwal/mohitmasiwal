@@ -27,19 +27,25 @@ I'm a passionate React Developer with a solid foundation in HTML, CSS, JavaScrip
 
 ### 📂 Projects
 - **[🍽️ Admin-Driven Food Delivery App](https://github.com/mohitmasiwal/Adminfoodapp)** - A responsive food delivery app with full admin control.
-
 🛒 User cart & order system
-
 🔐 Admin panel for managing items & orders
-
 ⚡ Real-time updates with Firebase
-
 🎨 Built with React & Tailwind CSS
-
 📱 Mobile-friendly UI
-- **[Weather App](https://github.com/mohitmasiwal/weatherapp.git)** - A responsive weather app with API integration.
-- **[Food Ordering App](https://github.com/mohitmasiwal/recipes.git)** - A food ordering platform with cart and ordering system.
-
+- **[📬 Mailbox App](https://github.com/mohitmasiwal/mailbox)** -A simple and secure mailbox app with read/unread functionality.
+✉️ Send & receive messages
+✅ Mark messages as read/unread
+🔐 User authentication with Firebase
+⚡ Real-time data handling
+🎨 Built with React & Tailwind CSS
+- **[🏢 Society Notice App](https://github.com/mohitmasiwal/society_noticebord)** -A smart notice board system for society communication and issue tracking.
+📝 Users can submit problems or requests
+💬 Admin can comment and update status (e.g., pending, resolved)
+📢 View public notices in real-time
+👥 Role-based access: Admin & User
+🔐 Secure auth with Firebase
+⚡ Real-time updates via Firestore
+🎨 Built using React & Tailwind CSS
 You can explore more projects on my [GitHub Profile](https://github.com/mohitmasiwal).
 
 ---
