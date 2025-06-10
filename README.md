@@ -4,7 +4,7 @@
 I'm a passionate React Developer with a solid foundation in HTML, CSS, JavaScript, and Tailwind CSS. I enjoy building responsive, user-friendly web applications and constantly explore modern front-end technologies to grow my skill set.
 
 ---
-- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1vVeyYM1X-s08C2U-f4PoTGeClW-YL65-/view?usp=sharing)
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1vVeyYM1X-s08C2U-f4PoTGeClW-YL65-/view?usp=sharing) — includes links to my Netlify deployed projects.
 - 💼 **LinkedIn**: [Mohit Masiwal](https://www.linkedin.com/in/mohit-masiwal-0b08b1324)
 - 📧 **Email**: mohitmasiwal02@gmail.com
 - 📍 **Location**: Nainital, Uttarakhand
