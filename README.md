@@ -26,7 +26,17 @@ I'm a passionate React Developer with a solid foundation in HTML, CSS, JavaScrip
 ---
 
 ### 📂 Projects
-- **[Admin_driven_foodDelivery_app](https://github.com/mohitmasiwal/rentalcloths.git)** - A React app with cart functionality.
+- **[🍽️ Admin-Driven Food Delivery App](https://github.com/mohitmasiwal/Adminfoodapp)** - A responsive food delivery app with full admin control.
+
+🛒 User cart & order system
+
+🔐 Admin panel for managing items & orders
+
+⚡ Real-time updates with Firebase
+
+🎨 Built with React & Tailwind CSS
+
+📱 Mobile-friendly UI
 - **[Weather App](https://github.com/mohitmasiwal/weatherapp.git)** - A responsive weather app with API integration.
 - **[Food Ordering App](https://github.com/mohitmasiwal/recipes.git)** - A food ordering platform with cart and ordering system.
 
